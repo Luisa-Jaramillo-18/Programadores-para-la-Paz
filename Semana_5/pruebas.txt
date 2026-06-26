@@ -1,0 +1,13 @@
+Pruebas
+
+Ruta /: Al acceder a esta ruta, el servidor respondió con el mensaje "Servidor activo". 
+Esto permitió comprobar que el servidor se estaba ejecutando correctamente en el puerto 
+3000 y que la conexión con el navegador funcionaba sin inconvenientes.
+
+Ruta /saludo: Al ingresar a la ruta /saludo, el servidor mostró el mensaje "Hola comunidad". 
+Esta prueba confirmó que la ruta fue creada correctamente y que el servidor puede responder 
+con un mensaje personalizado cuando se accede a una dirección específica.
+
+Ruta /mensaje/Luisa: Decidí ensayar con mi propio nombre. Al acceder a la ruta /mensaje/Luisa, 
+el servidor respondió con el mensaje "Hola Luisa", demostrando que la ruta dinámica recibe el 
+nombre ingresado en la URL y lo utiliza para generar una respuesta personalizada.
