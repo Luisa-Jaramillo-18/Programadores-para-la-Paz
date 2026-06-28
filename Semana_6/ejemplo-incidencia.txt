@@ -1,0 +1,18 @@
+Ejemplo JSON
+
+Petición
+{
+  "tipo": "Recolección de basura",
+  "descripcion": "Los habitantes del barrio reportan que el camión 
+  recolector no ha pasado desde hace tres días, por lo que se ha 
+  acumulado basura en las calles."
+}
+
+Respuesta
+{
+  "mensaje": "Incidencia registrada",
+  "tipo": "Recolección de basura",
+  "descripcion": "Los habitantes del barrio reportan que el camión 
+  recolector no ha pasado desde hace tres días, por lo que se ha 
+  acumulado basura en las calles."
+}
