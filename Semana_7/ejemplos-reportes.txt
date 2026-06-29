@@ -1,0 +1,38 @@
+Reportes
+
+● Ejemplo 1:
+
+Petición
+{
+  "tipo": "Espacios públicos",
+  "descripcion": "Los juegos infantiles del parque están deteriorados y necesitan mantenimiento."
+}
+
+Respuesta 
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 1,
+    "tipo": "Espacios públicos",
+    "descripcion": "Los juegos infantiles del parque están deteriorados y necesitan mantenimiento."
+  }
+}
+
+
+● Ejemplo 2:
+
+Petición 
+{
+  "tipo": "Movilidad",
+  "descripcion": "Un semáforo de la avenida principal dejó de funcionar."
+}
+
+Respuesta
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 2,
+    "tipo": "Movilidad",
+    "descripcion": "Un semáforo de la avenida principal dejó de funcionar."
+  }
+}

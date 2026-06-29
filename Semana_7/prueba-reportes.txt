@@ -1,0 +1,17 @@
+Prueba Ruta GET
+
+Respuesta: Al consultar la ruta GET /reportes, el servidor devuelve un arreglo con
+los reportes que han sido registrados previamente mediante la ruta POST /reportes. 
+En mi prueba se registró un reporte sobre la recolección de basura y, al realizar 
+la consulta, el servidor respondió con la siguiente información:
+
+[ 
+ { 
+  "id": 1, 
+  "tipo": "Recolección de basura", 
+  "descripcion": "Hay acumulación de basura en la calle." 
+ } 
+]
+
+Esta respuesta confirma que el reporte fue almacenado correctamente y que puede consultarse
+a través de la ruta GET /reportes.
