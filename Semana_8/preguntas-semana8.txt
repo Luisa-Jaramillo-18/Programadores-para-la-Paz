@@ -1,0 +1,13 @@
+Preguntas 
+
+¿Qué es un sistema operativo?
+Respuesta: El software que administra el hardware y permite ejecutar programas
+
+¿Cuál de los siguientes es un sistema operativo de código abierto?
+Respuesta: Ubuntu
+
+¿Qué es la terminal en un sistema Linux?
+Respuesta: Una interfaz que permite ejecutar comandos directamente en el sistema
+
+¿Cuál de las siguientes prácticas mejora la seguridad digital?
+Respuesta: Usar contraseñas fuertes y proteger credenciales

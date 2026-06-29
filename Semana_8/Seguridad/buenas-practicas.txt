@@ -1,0 +1,7 @@
+Practicas de seguridad
+
+● No compartir información personal en sitios no confiables.
+● Realizar copias de seguridad de los archivos importantes.
+● Descargar aplicaciones únicamente de fuentes oficiales.
+● Utilizar contraseñas seguras y diferentes para cada cuenta.
+● Cerrar sesión en equipos compartidos.

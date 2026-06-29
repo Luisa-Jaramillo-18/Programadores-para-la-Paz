@@ -1,0 +1,7 @@
+Seguridad de plataformas
+
+● Utilizar contraseñas seguras y cambiarlas periódicamente.
+● Activar la autenticación en dos pasos para proteger las cuentas.
+● Realizar copias de seguridad de la información de forma periódica.
+● Mantener el sistema y las aplicaciones actualizados.
+● Verificar la identidad de los usuarios antes de otorgar permisos de acceso.

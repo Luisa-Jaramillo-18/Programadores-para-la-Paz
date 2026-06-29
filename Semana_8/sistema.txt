@@ -1,0 +1,14 @@
+información del sistema
+
+Comando uname -a:
+Muestra información del sistema operativo, como el nombre del sistema, la versión 
+del kernel, la arquitectura del procesador y otros datos técnicos.
+
+Comando whoami:
+Muestra el nombre del usuario que tiene la sesión iniciada. En esta práctica, el 
+comando devolvió **`codespace`**, que es el usuario del entorno de GitHub Codespaces.
+
+¿Por qué es útil conocer esta información al administrar un servidor?
+Respuesta: Porque permite identificar el sistema operativo y el usuario que está ejecutando
+los comandos, lo que facilita la administración del servidor, la instalación de programas 
+y la solución de posibles problemas.
