@@ -1,0 +1,19 @@
+Interación 
+
+¿Qué 2 tareas del backlog harías primero?
+● Asignar cada reporte a un responsable para facilitar su atención y seguimiento.
+● Permitir que los ciudadanos adjunten fotografías al realizar un reporte.
+
+¿Por qué son las más importantes?
+Respuesta: Estas tareas son las más importantes porque permiten organizar la atención de 
+los reportes y proporcionar evidencia visual de las incidencias. Así, los responsables 
+pueden gestionar los casos de manera más eficiente.
+
+¿Qué significa para ti que una tarea esté "terminada"?
+Respuesta: Para mí, una tarea está terminada cuando cumple con el objetivo para el que fue 
+desarrollada, funciona correctamente y está lista para ser utilizada sin presentar errores.
+
+Criterios para considerar una tarea como terminada:
+● La funcionalidad cumple con el objetivo para el que fue creada.
+● La información se muestra correctamente y sin errores.
+● La tarea fue revisada y documentada antes de finalizarla.
