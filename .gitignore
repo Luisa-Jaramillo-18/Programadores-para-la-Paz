@@ -1,4 +1,4 @@
-Archivos y Carpetas Ignoradas por Git
+# Archivos y Carpetas Ignoradas por Git
 
 **/node_modules/
 *.http
