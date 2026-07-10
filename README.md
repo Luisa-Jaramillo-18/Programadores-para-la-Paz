@@ -1,8 +1,8 @@
-# Programadores-para-la-Paz
+# Programadores Para La Paz
 
-Este repositorio contiene las actividades desarrolladas durante el curso Programadores para la Paz, organizadas por semanas.
+Este repositorio contiene las actividades desarrolladas durante el curso Programadores para la Paz.
 
-## Semanas desarrolladas
+## Semanas Desarrolladas
 
 - 📁 Semana 1
 - 📁 Semana 2
@@ -15,3 +15,5 @@ Este repositorio contiene las actividades desarrolladas durante el curso Program
 - 📁 Semana 9
 - 📁 Semana 10
 - 📁 Semana 11
+- 📁 Semana 12
+
