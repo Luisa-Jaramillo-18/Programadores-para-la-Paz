@@ -2,16 +2,12 @@ Historias de Usuarios
 
 ● Como ciudadano quiero adjuntar fotografías al realizar un reporte para mostrar 
 con mayor claridad la situación.
-
 ● Como administrador quiero asignar cada reporte a un responsable para facilitar 
 su atención y seguimiento.
-
 ● Como líder comunitario quiero generar un resumen de los reportes recibidos para 
 identificar las necesidades más frecuentes del barrio.
-
 ● Como ciudadano quiero recibir una notificación cuando mi reporte cambie de estado
 para conocer el avance de la gestión.
-
 ● Como administrador quiero consultar estadísticas de los reportes registrados para
 tomar decisiones y priorizar las acciones.
 
@@ -19,15 +15,11 @@ Orden de Priorida
 
 ● Como administrador quiero asignar cada reporte a un responsable para facilitar 
 su atención y seguimiento.
-
 ● Como ciudadano quiero adjuntar fotografías al realizar un reporte para mostrar 
 con mayor claridad la situación.
-
 ● Como ciudadano quiero recibir una notificación cuando mi reporte cambie de estado 
 para conocer el avance de la gestión.
-
 ● Como líder comunitario quiero generar un resumen de los reportes recibidos para 
 identificar las necesidades más frecuentes del barrio.
-
 ● Como administrador quiero consultar estadísticas de los reportes registrados para 
 tomar decisiones y priorizar las acciones.
