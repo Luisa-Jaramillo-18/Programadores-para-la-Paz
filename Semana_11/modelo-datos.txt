@@ -10,7 +10,6 @@ Campos principales:
 Propósito: Almacenar los reportes realizados por los ciudadanos sobre situaciones 
 que requieren atención en la comunidad.
 
-
 Entidad: Usuario
 Campos principales:
 ● id
@@ -18,6 +17,5 @@ Campos principales:
 ● correo
 ● rol
 ● fecha_registro
-
 Propósito: Registrar la información de los usuarios de la plataforma y definir el 
 rol que desempeñan dentro del sistema, como ciudadano o administrador.
