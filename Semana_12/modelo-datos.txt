@@ -1,0 +1,23 @@
+Modelo de Datos 
+
+Entidad: Causa
+Campos principales:
+● id
+● titulo
+● descripcion
+● fecha
+¿Para qué sirve?
+Esta entidad almacena la información de cada causa o petición creada por 
+los ciudadanos, permitiendo que sea consultada y apoyada por otros usuarios 
+de la plataforma.
+
+Entidad: Apoyo
+Campos principales:
+● id
+● causa_id
+● nombre
+● fecha
+¿Para qué sirve?
+Esta entidad registra los apoyos que recibe cada causa, indicando quién la 
+apoyó y cuándo lo hizo. Además, permite llevar el conteo de apoyos de cada 
+petición.

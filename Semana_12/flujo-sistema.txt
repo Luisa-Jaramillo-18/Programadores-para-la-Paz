@@ -1,0 +1,20 @@
+Petición en 3 Clics
+
+● Un ciudadano ingresa a la plataforma y completa el formulario para crear 
+una nueva petición comunitaria.
+
+● La información de la petición se guarda en el sistema y queda disponible 
+para que otros usuarios la consulten.
+
+● Los ciudadanos revisan las peticiones disponibles y pueden apoyar las que 
+consideren importantes.
+
+● El sistema actualiza automáticamente el número de apoyos cada vez que un 
+usuario respalda una petición.
+
+● Cuando la petición alcanza la cantidad de apoyos requerida, el sistema genera 
+un documento PDF con la información para facilitar su presentación ante la entidad 
+correspondiente.
+
+● El documento generado puede ser descargado o entregado a la entidad competente 
+para solicitar la atención de la petición.
